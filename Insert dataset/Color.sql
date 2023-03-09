@@ -1,0 +1,10 @@
+INSERT INTO `Color` (`ColorID`, `ColorName`) VALUES (1, 'Green');
+INSERT INTO `Color` (`ColorID`, `ColorName`) VALUES (2, 'Red');
+INSERT INTO `Color` (`ColorID`, `ColorName`) VALUES (3, 'Blue');
+INSERT INTO `Color` (`ColorID`, `ColorName`) VALUES (4, 'White');
+INSERT INTO `Color` (`ColorID`, `ColorName`) VALUES (5, 'Brown');
+INSERT INTO `Color` (`ColorID`, `ColorName`) VALUES (6, 'Yellow');
+INSERT INTO `Color` (`ColorID`, `ColorName`) VALUES (7, 'Purple');
+INSERT INTO `Color` (`ColorID`, `ColorName`) VALUES (8, 'Pink');
+INSERT INTO `Color` (`ColorID`, `ColorName`) VALUES (9, 'Grey');
+INSERT INTO `Color` (`ColorID`, `ColorName`) VALUES (10, 'Black');
